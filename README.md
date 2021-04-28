@@ -1,11 +1,11 @@
 # Get repository
 ```
-git clone https://github.com/AlejandroWilcke/algorithm2
+git clone https://github.com/AlejandroWilcke/algorithm
 ```
 
 # Install
 ```
-cd algorithm2 && npm install
+cd algorithm && npm install
 ```
 
 # Test
